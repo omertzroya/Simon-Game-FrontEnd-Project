@@ -27,8 +27,8 @@ A popular classic game that tests your memory with 4 colors (usually RGBY) that 
 ## Screenshots
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
-        <img src="public/images/Screenshots1.png" width="300" alt="Screenshot 1">
-       <img src="public/images/Screenshots2.png" width="300" alt="Screenshot 2">
+        <img src="Screenshots/Screenshots1.png" width="300" alt="Screenshot 1">
+       <img src="Screenshots/Screenshots2.png" width="300" alt="Screenshot 2">
        
 </div>
 
