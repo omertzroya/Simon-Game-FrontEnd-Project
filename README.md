@@ -1,6 +1,6 @@
 
-## Description
-A popular classic game that tests your memory with 4 colors (usually RGBY) that you need to remember their pattern which increases by 1 each round randomly.
+## Simon Game FrontEnd Web App
+A popular classic game that tests your memory with 4 colors that you need to remember their pattern which increases by 1 each round randomly.
 
 ## Main features
 - Saving scores
